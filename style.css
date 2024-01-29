@@ -1,3 +1,31 @@
 img {
     background-image: url(./img/pattern.png);
 }
+
+header{
+    background-color: #4EA0FF;
+}
+
+.h1{
+    font-size: 25px;
+}
+
+.paragraph{
+    color: #808080;
+}
+
+.caption2{
+    font-size: 12px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+thead{
+    background-color: #4EA0FF;
+}
+
+h3{
+    color:#808080;
+}
