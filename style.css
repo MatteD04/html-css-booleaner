@@ -1,9 +1,10 @@
-img {
-    background-image: url(./img/pattern.png);
+.logo{
+    height: 50px;
 }
 
 header{
     background-color: #4EA0FF;
+    background-image: url(./img/pattern.png);
 }
 
 .h1{
