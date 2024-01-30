@@ -5,26 +5,49 @@
 header{
     background-color: #4EA0FF;
     background-image: url(./img/pattern.png);
+    background-size: 40%;
+    padding-top: 50px;
 }
 
-.h1{
-    font-size: 25px;
+h1{
+    font-size: 40px;
 }
 
 .paragraph{
     color: #808080;
 }
 
+.author{
+    font-size: 18px;
+}
+
+.link{
+    color:#4EA0FF;
+    text-decoration: none;
+}
+
 .caption2{
     font-size: 12px;
 }
 
-.giallo{
-    background-color: yellow;
+.article{
+    margin-top: 20px;
+}
+
+table{
+    border-collapse: collapse;
 }
 
 thead{
-    background-color: #4EA0FF;
+    background-color: #1faae5;
+}
+
+.table-row{
+    background-color: #b0e4f2;
+}
+
+.cell{
+    width: 50%;
 }
 
 h3{
